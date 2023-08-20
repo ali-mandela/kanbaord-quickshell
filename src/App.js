@@ -5,10 +5,10 @@ import Text from "./components/GroupandOrder";
 
 const App = () => {
   return (
-    <>
-      <Header />
+    <div>
+     <Header />
       <Text />
-    </>
+    </div>
   );
 };
 
