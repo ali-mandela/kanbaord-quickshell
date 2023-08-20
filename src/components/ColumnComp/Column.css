@@ -1,0 +1,19 @@
+.columnDiv{
+  /* width: 20vw; */
+  width: 100%;
+  padding: 10px 5px  ; 
+  margin-right: 40px;
+  
+}
+.columnDivHeader{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.columnTitle{
+  font-size: 22px;
+  font-weight: 900;
+}
+.columnDivHeader i{
+  font-size: 22px;
+}
