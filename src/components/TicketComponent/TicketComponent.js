@@ -2,19 +2,9 @@ import React from "react";
 
 import "./ticketComponent.css";
 
-const imgUrl =
-  "https://tse1.explicit.bing.net/th?id=OIP.SxuyKL-Ca-_bXp1TC4c4-gHaF3&pid=Api&P=0&h=180";
+// const imgUrl = "https://tse1.explicit.bing.net/th?id=OIP.SxuyKL-Ca-_bXp1TC4c4-gHaF3&pid=Api&P=0&h=180";
 
 const TicketComponent = ({ key, ticket }) => {
-  console.log(ticket);
-
-  switch (ticket.status) {
-    case "todo":
-      break;
-
-    default:
-      break;
-  }
   return (
     <>
       <div className="ticketDiv">

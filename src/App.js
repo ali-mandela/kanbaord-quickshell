@@ -6,7 +6,7 @@ import Text from "./components/GroupandOrder";
 const App = () => {
   return (
     <div>
-     <Header />
+      <Header />
       <Text />
     </div>
   );
