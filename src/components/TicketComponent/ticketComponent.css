@@ -1,6 +1,5 @@
 .ticketDiv {
     width: 340px;
-    /* height: 140px; */
     display: flex;
     flex-direction: column;
     row-gap: 20px;
@@ -46,8 +45,3 @@
     padding: 4px;
     border-radius: 6px;
   }
-  /* .ticketDivFooter .fa-globe{
-    border: 1px solid gray;
-    padding: 4px;
-    border-radius: 12px;
-  } */
